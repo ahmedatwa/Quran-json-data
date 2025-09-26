@@ -4,6 +4,7 @@
       "id": 2,
       "reciter_id": 1,
       "name": "AbdulBaset AbdulSamad",
+      "slug": "abdulbaset_murattal",
       "translated_name": {
         "name": "AbdulBaset AbdulSamad",
         "language_name": "english"
@@ -22,6 +23,7 @@
       "id": 1,
       "reciter_id": 1,
       "name": "AbdulBaset AbdulSamad",
+      "slug": "abdulbaset_mujawwad",
       "translated_name": {
         "name": "AbdulBaset AbdulSamad",
         "language_name": "english"
@@ -40,6 +42,7 @@
       "id": 6,
       "reciter_id": 5,
       "name": "Mahmoud Khalil Al-Husary",
+      "slug": " alhusary_murattal",
       "translated_name": {
         "name": "Mahmoud Khalil Al-Husary",
         "language_name": "english"
@@ -58,6 +61,7 @@
       "id": 7,
       "reciter_id": 6,
       "name": "Mishari Rashid al-`Afasy",
+      "slug": "alafasy_murattal",
       "translated_name": {
         "name": "Mishari Rashid al-`Afasy",
         "language_name": "english"
@@ -76,6 +80,7 @@
       "id": 3,
       "reciter_id": 2,
       "name": "Abdur-Rahman as-Sudais",
+      "slug": "assudais_murattal",
       "translated_name": {
         "name": "Abdur-Rahman as-Sudais",
         "language_name": "english"
@@ -94,8 +99,28 @@
       "id": 9,
       "reciter_id": 7,
       "name": "Mohamed Siddiq al-Minshawi",
+      "slug": "alminshawi_murattal",
       "translated_name": {
         "name": "Mohamed Siddiq al-Minshawi",
+        "language_name": "english"
+      },
+      "style": {
+        "name": "Murattal",
+        "language_name": "english",
+        "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 4,
+      "reciter_id": 3,
+      "name": "Abu Bakr al-Shatri",
+      "slug": "alshatri_murattal",
+      "translated_name": {
+        "name": "Abu Bakr al-Shatri",
         "language_name": "english"
       },
       "style": {
@@ -112,6 +137,7 @@
       "id": 13,
       "reciter_id": 12,
       "name": "Sa'ad al-Ghamdi",
+      "slug": "SaadalGhamdi_murattal",
       "translated_name": {
         "name": "Saad al-Ghamdi",
         "language_name": "english"
@@ -130,6 +156,7 @@
       "id": 5,
       "reciter_id": 4,
       "name": "Hani ar-Rifai",
+      "slug": "haniarrifai_murattal",
       "translated_name": {
         "name": "Hani ar-Rifai",
         "language_name": "english"
@@ -148,6 +175,7 @@
       "id": 12,
       "reciter_id": 5,
       "name": "Mahmoud Khalil Al-Husary",
+      "slug": " alhusary_muallim",
       "translated_name": {
         "name": "Mahmoud Khalil Al-Husary",
         "language_name": "english"
@@ -166,6 +194,7 @@
       "id": 168,
       "reciter_id": 7,
       "name": "Mohamed Siddiq al-Minshawi",
+      "slug": "alminshawi_kids_repeat",
       "translated_name": {
         "name": "Mohamed Siddiq al-Minshawi",
         "language_name": "english"
